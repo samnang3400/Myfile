@@ -47,6 +47,7 @@
 ||zilliongamer.com^important
 ||zeusgame.me^important
 ||zerogameth.com^important
+||snake.io^important
 ||zero3games.com.br^important
 ||zenit.games^important
 ||z8games.com^important
