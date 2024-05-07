@@ -255,3 +255,4 @@
 ||gryfek.pl^$important
 ||onlygames.io^$important
 ||cartoonnetwork.pl^$important
+||emupedia.net^$important
