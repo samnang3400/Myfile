@@ -256,3 +256,5 @@
 ||onlygames.io^$important
 ||cartoonnetwork.pl^$important
 ||emupedia.net^$important
+||ldplayer.net^$important
+||BLuestacks.com^$important
